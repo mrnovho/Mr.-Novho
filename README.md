@@ -1,2 +1,2 @@
 # Mr.-Novho
-https://mrnovho.github.io/MRN/
+ https://mrnovho.github.io/Mr.-Novho/
